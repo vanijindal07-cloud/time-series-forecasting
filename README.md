@@ -54,13 +54,6 @@ Retail Store Inventory Dataset
 
 ---
 
-##  Results
-
-- MAE: (add your value)
-- MAPE: (add your value)
-
----
-
 ##  Output Files
 
 - forecast_output.csv → contains actual vs predicted values
